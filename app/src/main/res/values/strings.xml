@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagingTest</string>
+    <string name="retry">再開</string>
+</resources>
